@@ -1,0 +1,5 @@
+Nick;Czas;Punkty;Status;Opis
+Yami;00:02:35;120;OK;normalny wynik
+Kafka;00:05:10;0;OK;błąd zapisu punktów
+Castorice;00:03:40;150;OK;normalny wynik
+Shaoran;00:04:20;180;OK;normalny wynik

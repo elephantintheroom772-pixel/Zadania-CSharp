@@ -1,0 +1,7 @@
+﻿Nick;Czas;Punkty;Status;Opis
+Yami;00:02:35;120;OK;normalny wynik
+Shinji;00:00:01;9999;HACKER;czas nierealny
+Kafka;00:05:10;ad502c;OK;błąd zapisu punktów
+Castorice;00:03:40;150;OK;normalny wynik
+Blade;0:00:01;200;OK;podejrzanie szybko
+Shaoran;00:04:20;180;OK;normalny wynik
